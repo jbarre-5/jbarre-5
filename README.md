@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @jbarre-5
-- 👀 I’m interested in ..
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Bienvenue sur mon profil GitHub ! 👋
+Je suis un étudiant passionné par l'informatique. Actuellement en cours d'étude dans ce domaine, j'aime explorer, apprendre et développer mes compétences pour construire des projets intéressants et utiles.
 
-<!---
-jbarre-5/jbarre-5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🙋‍♂️ **Qui suis-je ?**
+- Etudiant en BUT Informatique à l'<a href="https://www.iut.unilim.fr/">IUT du Limousin</a>
+- Passionné de développement d'application et d'IA
+  
