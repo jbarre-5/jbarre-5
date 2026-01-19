@@ -48,8 +48,8 @@ Parmi les domaines que j’ai étudiés et dans lesquels j’ai progressé :
 ## 📫 Me contacter
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/julian-barre-9442902b2/)  
-- 🐙 [GitHub](https://github.com/jbarre-5)  
-
+- 🐙 [GitHub](https://github.com/jbarre-5)
+- Site : https://jbarre-5.github.io/jbarre-5/
 ---
 
 ⭐ *N’hésite pas à parcourir mes repos, à laisser une étoile ou à me faire un retour !*
