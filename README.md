@@ -23,7 +23,8 @@ Parmi les domaines que j’ai étudiés et dans lesquels j’ai progressé :
 
 - <strong>CSS</strong> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS Logo" width="22"/>
 
-- <strong>SQL</strong> <img src="[https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg](https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png)" alt="CSS Logo" width="22"/>
+- <strong>SQL</strong> <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL Logo" width="28"/>
+
 
 
 <em>D’autres technologies viendront s’ajouter au fil de mes projets.</em>
