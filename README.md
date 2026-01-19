@@ -26,7 +26,6 @@ Parmi les domaines que j’ai étudiés et dans lesquels j’ai progressé :
 - <strong>SQL</strong> <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL Logo" width="28"/>
 
 
-
 <em>D’autres technologies viendront s’ajouter au fil de mes projets.</em>
 
 ---
@@ -51,7 +50,7 @@ Parmi les domaines que j’ai étudiés et dans lesquels j’ai progressé :
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/julian-barre-9442902b2/)  
 - 🐙 [GitHub](https://github.com/jbarre-5)
-- Site : https://jbarre-5.github.io/jbarre-5/
+- 🌐 [Site](https://jbarre-5.github.io/jbarre-5/)
 ---
 
 ⭐ *N’hésite pas à parcourir mes repos, à laisser une étoile ou à me faire un retour !*
