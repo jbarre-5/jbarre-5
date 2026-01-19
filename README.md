@@ -10,7 +10,6 @@ Actuellement en **BUT Informatique** à l’**IUT du Limousin**, j’aime appren
 - 🎓 Étudiant en BUT Informatique à l’[IUT du Limousin](https://www.iut.unilim.fr/)
 - 💻 Passionné de développement d’applications et d’intelligence artificielle
 - 🚀 Curieux et motivé, toujours à l’affût des nouvelles technologies
-- 🛠️ J’aime apprendre par la pratique et relever des défis techniques
 
 ---
 
@@ -23,6 +22,9 @@ Parmi les domaines que j’ai étudiés et dans lesquels j’ai progressé :
 - <strong>HTML</strong> <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML Logo" width="30"/>
 
 - <strong>CSS</strong> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS Logo" width="22"/>
+
+- <strong>SQL</strong> <img src="[https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg](https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png)" alt="CSS Logo" width="22"/>
+
 
 <em>D’autres technologies viendront s’ajouter au fil de mes projets.</em>
 
@@ -41,7 +43,6 @@ Parmi les domaines que j’ai étudiés et dans lesquels j’ai progressé :
 - Approfondir mes compétences en développement logiciel  
 - Découvrir davantage l’IA et le machine learning  
 - Construire des projets concrets et utiles  
-- Me professionnaliser progressivement dans le domaine de l’informatique  
 
 ---
 
