@@ -25,6 +25,8 @@ Parmi les domaines que j’ai étudiés et dans lesquels j’ai progressé :
 
 - <strong>SQL</strong> <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL Logo" width="28"/>
 
+- <strong>SQL</strong> <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL Logo" width="28"/>
+
 
 <em>D’autres technologies viendront s’ajouter au fil de mes projets.</em>
 
